@@ -1,5 +1,5 @@
 
-[![Charles-Qiandc](https://img.shields.io/badge/Charles-Qiandc-github-blue?logo=github)](https://github.com/Charles-Qiandc)
+[![GitHub](https://img.shields.io/badge/GitHub-Charles--Qiandc-blue?logo=github)](https://github.com/Charles-Qiandc)
 
 This is an undergraduate student from the Department of Automation at Harbin Institute of Technology (Shenzhen), who has a strong interest in embodied intelligence research and is currently preparing for graduate school applications
 
