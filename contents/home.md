@@ -1,17 +1,16 @@
 
+[![Charles-Qiandc](https://img.shields.io/badge/Charles-Qiandc-github-blue?logo=github)](https://github.com/Charles-Qiandc)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+This is an undergraduate student from the Department of Automation at Harbin Institute of Technology (Shenzhen), who has a strong interest in embodied intelligence research and is currently preparing for graduate school applications
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 220320515@stu.hit.edu.cn
+18855191179@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Automation, Harbin Institute of Technology (Shenzhen), 2022—2026.(GPA:3.7/4.0)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Artificial Intelligence,Robotics.
 
